@@ -1,0 +1,21 @@
+.site .cherry-search__more-button,
+.site .cherry-search form.cherry-search__form button.search-submit {
+	background: $regular_accent_color_1;
+	color: $invert_text_color;
+}
+
+.site .cherry-search__more-button:hover,
+.site .cherry-search form.cherry-search__form button.search-submit:hover {
+	background: $regular_accent_color_3;
+	color: $invert_text_color;
+}
+
+.cherry-search__results-item .cherry-search__item-title, 
+.cherry-search__results-item .cherry-search__item-content,
+.cherry-search__results-item .cherry-search__item-author {
+	color: $regular_text_color;
+}
+
+.top-panel.invert .cherry-search .search-form__field{
+	color: $invert_text_color;
+}

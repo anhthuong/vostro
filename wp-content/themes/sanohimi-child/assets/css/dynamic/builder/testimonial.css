@@ -1,0 +1,29 @@
+#tm_builder_outer_content .tm_pb_module.tm_pb_testimonial::before,
+#tm_builder_outer_content .tm_pb_testimonial.tm_pb_module .tm_pb_testimonial_author {
+	color: $regular_accent_color_3;
+}
+
+#tm_builder_outer_content .invert .tm_pb_module.tm_pb_testimonial::before,
+#tm_builder_outer_content .invert .tm_pb_testimonial.tm_pb_module .tm_pb_testimonial_author {
+	color: $invert_text_color;
+}
+
+#tm_builder_outer_content .tm_pb_testimonial.tm_pb_module .tm_pb_testimonial_meta {
+	color: @alpha( $regular_accent_color_2, 20 );
+}
+
+#tm_builder_outer_content .tm_pb_with_background .tm_pb_testimonial.tm_pb_module .tm_pb_testimonial_meta {
+	color: $regular_accent_color_3;
+}
+
+#tm_builder_outer_content .invert.tm_pb_with_background .tm_pb_testimonial.tm_pb_module .tm_pb_testimonial_meta {
+	color: $invert_text_color;
+}
+
+#tm_builder_outer_content .tm_pb_testimonial.tm_pb_module .tm_pb_testimonial_description_inner {
+	color: $regular_accent_color_3;
+}
+
+#tm_builder_outer_content .invert .tm_pb_testimonial.tm_pb_module .tm_pb_testimonial_description_inner {
+	color: $invert_text_color;
+}

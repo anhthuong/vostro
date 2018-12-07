@@ -1,0 +1,2212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sanohimi\n"
+"POT-Creation-Date: 2017-06-16 17:48+0200\n"
+"PO-Revision-Date: 2017-06-16 17:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: TemplateMonster\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:13 inc/customizer.php:1712
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid "We&rsquo;ve encountered an error and we&rsquo;re working on it!"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"While we&rsquo;re checking which brick in the wall was a cause, please try "
+"refreshing this page again!"
+msgstr ""
+
+#: 404.php:21
+msgid "Visit home page"
+msgstr ""
+
+#: cherry-import-manifest.php:11 tm-wizard-manifest.php:90
+msgid "Sanohimi"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41 comments.php:64
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44 comments.php:67
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45 comments.php:68
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:358 functions.php:372
+msgid "Set thumbnail"
+msgstr ""
+
+#: functions.php:359
+msgid "Category thumbnail"
+msgstr ""
+
+#: functions.php:373
+msgid "Tag thumbnail"
+msgstr ""
+
+#: functions.php:379
+msgid "Layout Options"
+msgstr ""
+
+#: functions.php:387 functions.php:481 inc/customizer.php:1204
+#: inc/customizer.php:1489 inc/customizer.php:1545 inc/customizer.php:1798
+msgid "Layout"
+msgstr ""
+
+#: functions.php:392 inc/customizer.php:2051 inc/customizer.php:2092
+#: inc/customizer.php:2122
+msgid "Inherit"
+msgstr ""
+
+#: functions.php:396 inc/customizer.php:1389
+msgid "Sidebar on left side"
+msgstr ""
+
+#: functions.php:400 inc/customizer.php:1390
+msgid "Sidebar on right side"
+msgstr ""
+
+#: functions.php:404
+msgid "No sidebar"
+msgstr ""
+
+#: functions.php:411
+msgid "Header layout"
+msgstr ""
+
+#: functions.php:416
+msgid "Header Inherit Layout"
+msgstr ""
+
+#: functions.php:420
+msgid "Header Boxed Layout"
+msgstr ""
+
+#: functions.php:424
+msgid "Header Fullwidth Layout"
+msgstr ""
+
+#: functions.php:431
+msgid "Content layout"
+msgstr ""
+
+#: functions.php:436
+msgid "Content Inherit Layout"
+msgstr ""
+
+#: functions.php:440
+msgid "Content Boxed Layout"
+msgstr ""
+
+#: functions.php:444
+msgid "Content Fullwidth Layout"
+msgstr ""
+
+#: functions.php:451
+msgid "Footer layout"
+msgstr ""
+
+#: functions.php:456
+msgid "Footer Inherit Layout"
+msgstr ""
+
+#: functions.php:460
+msgid "Footer Boxed Layout"
+msgstr ""
+
+#: functions.php:464
+msgid "Footer Fullwidth Layout"
+msgstr ""
+
+#: functions.php:473
+msgid "Header Layout Type"
+msgstr ""
+
+#: functions.php:572 config/menus.php:13
+msgid "Top"
+msgstr ""
+
+#: functions.php:593
+msgid "Arrival"
+msgstr ""
+
+#: functions.php:594
+msgid "Departure"
+msgstr ""
+
+#: functions.php:595
+msgid "Children"
+msgstr ""
+
+#: functions.php:596
+msgid "Check availability"
+msgstr ""
+
+#: header-404.php:26 header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: single.php:15
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:15
+msgid "Next Post"
+msgstr ""
+
+#: tm-wizard-manifest.php:9
+msgid "Contact Form 7"
+msgstr ""
+
+#: tm-wizard-manifest.php:13
+msgid "Cherry Sidebars"
+msgstr ""
+
+#: tm-wizard-manifest.php:17
+msgid "Power Builder"
+msgstr ""
+
+#: tm-wizard-manifest.php:23
+msgid "Power Builder Integrator"
+msgstr ""
+
+#: tm-wizard-manifest.php:29
+msgid "Hotel Booking"
+msgstr ""
+
+#: tm-wizard-manifest.php:35
+msgid "Restaurant Menu"
+msgstr ""
+
+#: tm-wizard-manifest.php:41
+msgid "Simple File Downloader"
+msgstr ""
+
+#: tm-wizard-manifest.php:45
+msgid "TM Photo Gallery"
+msgstr ""
+
+#: tm-wizard-manifest.php:49
+msgid "Cherry Search"
+msgstr ""
+
+#: tm-wizard-manifest.php:53
+msgid "Cherry Data Importer"
+msgstr ""
+
+#: tm-wizard-manifest.php:59
+msgid "Cherry Socialize"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:8
+msgid "Day"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:8
+#: builder/templates/countdown-timer.php:10
+msgid "Day (s)"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:13
+msgid "Hrs"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:13
+#: builder/templates/countdown-timer.php:15
+msgid "Hour (s)"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:18
+msgid "Min"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:18
+#: builder/templates/countdown-timer.php:20
+msgid "Minute (s)"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:23
+msgid "Sec"
+msgstr ""
+
+#: builder/templates/countdown-timer.php:23
+#: builder/templates/countdown-timer.php:25
+msgid "Second (s)"
+msgstr ""
+
+#: builder/templates/blog/meta.php:16
+msgid "by"
+msgstr ""
+
+#: builder/templates/blog/meta.php:34
+#, php-format
+msgctxt "number of comments"
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: builder/templates/blog/more.php:7
+msgid "Read more"
+msgstr ""
+
+#: builder/templates/blog/no-results.php:4
+msgid "No Results Found"
+msgstr ""
+
+#: builder/templates/blog/no-results.php:7
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+
+#: builder/templates/post/item-meta.php:13 inc/template-related-posts.php:134
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:254
+#: template-parts/content-audio.php:69 template-parts/content-gallery.php:70
+#: template-parts/content-image.php:72 template-parts/content-link.php:85
+#: template-parts/content-quote.php:69 template-parts/content-search.php:36
+#: template-parts/content-single-link.php:41
+#: template-parts/content-single.php:29 template-parts/content-status.php:80
+#: template-parts/content-video.php:82 template-parts/content.php:78
+msgid "by "
+msgstr ""
+
+#: builder/templates/post/item-meta.php:18
+#: builder/templates/post/item-meta.php:23
+msgid "- "
+msgstr ""
+
+#: builder/templates/post/item-meta.php:24 inc/template-related-posts.php:147
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:247
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: builder/templates/post/item-posts-layout-1.php:40
+#: builder/templates/post/item-posts-layout-2.php:34 inc/customizer.php:1620
+msgid "Read More"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:346
+msgid "Home"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:352
+msgid "Browse:"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:354
+msgid "404 Not Found"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:355
+msgid "Archives"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:356
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:357
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:358
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:359
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: cherry-framework/modules/cherry-customizer/cherry-customizer.php:269
+msgid "Untitled Panel"
+msgstr ""
+
+#: cherry-framework/modules/cherry-customizer/cherry-customizer.php:305
+msgid "Untitled Section"
+msgstr ""
+
+#: cherry-framework/modules/cherry-customizer/cherry-customizer.php:338
+msgid "Untitled Control"
+msgstr ""
+
+#: cherry-framework/modules/cherry-db-updater/cherry-db-updater.php:105
+#, php-format
+msgid ""
+"Module DB Updater init error in %s - version and slug is required arguments"
+msgstr ""
+
+#: cherry-framework/modules/cherry-db-updater/cherry-db-updater.php:106
+msgid "We need to update your database to the latest version."
+msgstr ""
+
+#: cherry-framework/modules/cherry-db-updater/cherry-db-updater.php:107
+msgid "Update complete, thank you for updating to the latest version!"
+msgstr ""
+
+#: cherry-framework/modules/cherry-db-updater/cherry-db-updater.php:331
+msgid "Start Update"
+msgstr ""
+
+#: cherry-framework/modules/cherry-db-updater/cherry-db-updater.php:368
+msgid "Data Update"
+msgstr ""
+
+#: cherry-framework/modules/cherry5-insert-shortcode/inc/class-cherry5-insertion-button.php:63
+msgid "Cherry shortcodes"
+msgstr ""
+
+#: cherry-framework/modules/cherry5-insert-shortcode/inc/class-cherry5-insertion-popup.php:128
+msgid "insert shortcode"
+msgstr ""
+
+#: cherry-framework/modules/cherry5-insert-shortcode/inc/class-cherry5-insertion-popup.php:148
+msgid "Shortcode List"
+msgstr ""
+
+#: cherry-framework/modules/cherry5-insert-shortcode/inc/class-cherry5-insertion-popup.php:206
+msgid "Shortcode not found."
+msgstr ""
+
+#: cherry-framework/modules/cherry5-insert-shortcode/inc/class-cherry5-insertion-popup.php:261
+msgid "Shortcode content."
+msgstr ""
+
+#: cherry-framework/modules/cherry5-insert-shortcode/inc/class-cherry5-insertion-popup.php:262
+msgid "Input shortcode content."
+msgstr ""
+
+#: cherry-framework/modules/cherry5-insert-shortcode/inc/class-cherry5-insertion-popup.php:277
+msgid "Shortcode not a have options."
+msgstr ""
+
+#: config/menus.php:14
+msgid "Main"
+msgstr ""
+
+#: config/menus.php:15 inc/customizer.php:1457
+msgid "Footer"
+msgstr ""
+
+#: config/menus.php:16
+msgid "Social"
+msgstr ""
+
+#: config/sidebars.php:13 inc/customizer.php:1379
+msgid "Sidebar"
+msgstr ""
+
+#: config/sidebars.php:24
+msgid "Header Fullwidth Area"
+msgstr ""
+
+#: config/sidebars.php:36
+msgid "Before Content Area"
+msgstr ""
+
+#: config/sidebars.php:48
+msgid "Before Loop Area"
+msgstr ""
+
+#: config/sidebars.php:60
+msgid "After Loop Area"
+msgstr ""
+
+#: config/sidebars.php:72
+msgid "After Content Area"
+msgstr ""
+
+#: config/sidebars.php:84
+msgid "After Content Fullwidth Area"
+msgstr ""
+
+#: config/sidebars.php:96
+msgid "Footer Area"
+msgstr ""
+
+#: config/sidebars.php:107
+msgid "Contact Area"
+msgstr ""
+
+#: config/sidebars.php:119
+msgid "Home Contact Area"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Show tagline after logo"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Show ToTop button"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Show page preloader"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "General Site settings"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Logo &amp; Favicon"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Logo Type"
+msgstr ""
+
+#: inc/customizer.php:70 inc/customizer.php:1331
+msgid "Image"
+msgstr ""
+
+#: inc/customizer.php:71 inc/customizer.php:1333
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Upload logo image"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Retina Logo Upload"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Upload logo for retina-ready devices"
+msgstr ""
+
+#: inc/customizer.php:93 inc/customizer.php:525 inc/customizer.php:609
+#: inc/customizer.php:693 inc/customizer.php:777 inc/customizer.php:861
+#: inc/customizer.php:945 inc/customizer.php:1029 inc/customizer.php:1113
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer.php:101 inc/customizer.php:532 inc/customizer.php:616
+#: inc/customizer.php:700 inc/customizer.php:784 inc/customizer.php:868
+#: inc/customizer.php:952 inc/customizer.php:1036 inc/customizer.php:1120
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer.php:110 inc/customizer.php:540 inc/customizer.php:624
+#: inc/customizer.php:708 inc/customizer.php:792 inc/customizer.php:876
+#: inc/customizer.php:960 inc/customizer.php:1044 inc/customizer.php:1128
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer.php:119 inc/customizer.php:548 inc/customizer.php:632
+#: inc/customizer.php:716 inc/customizer.php:800 inc/customizer.php:884
+#: inc/customizer.php:968 inc/customizer.php:1052 inc/customizer.php:1136
+msgid "Font Size, px"
+msgstr ""
+
+#: inc/customizer.php:132 inc/customizer.php:585 inc/customizer.php:669
+#: inc/customizer.php:753 inc/customizer.php:837 inc/customizer.php:921
+#: inc/customizer.php:1005 inc/customizer.php:1089 inc/customizer.php:1173
+msgid "Character Set"
+msgstr ""
+
+#: inc/customizer.php:143 inc/customizer.php:1107
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Enable Breadcrumbs on front page"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Enable page title in breadcrumbs area"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Show full/minified path"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Full"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Minified"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Social links"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Show social links in header"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "Show social links in footer"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Show social sharing to blog posts"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Show social sharing to single blog post"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Header type"
+msgstr ""
+
+#: inc/customizer.php:230 inc/customizer.php:241 inc/customizer.php:252
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:231 inc/customizer.php:242 inc/customizer.php:253
+#: inc/customizer.php:1613
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Content type"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Footer type"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Container width (px)"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Sidebar width"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Configure Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Regular scheme"
+msgstr ""
+
+#: inc/customizer.php:298 inc/customizer.php:425
+msgid "Accent color (1)"
+msgstr ""
+
+#: inc/customizer.php:305 inc/customizer.php:432
+msgid "Accent color (2)"
+msgstr ""
+
+#: inc/customizer.php:312 inc/customizer.php:439
+msgid "Accent color (3)"
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Accent color (4)"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Accent color (5)"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Accent color (6)"
+msgstr ""
+
+#: inc/customizer.php:340
+msgid "Accent color (7)"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Accent color (8)"
+msgstr ""
+
+#: inc/customizer.php:354 inc/customizer.php:446
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer.php:361 inc/customizer.php:453
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer.php:368 inc/customizer.php:460
+msgid "Link hover color"
+msgstr ""
+
+#: inc/customizer.php:375 inc/customizer.php:467
+msgid "H1 color"
+msgstr ""
+
+#: inc/customizer.php:382 inc/customizer.php:474
+msgid "H2 color"
+msgstr ""
+
+#: inc/customizer.php:389 inc/customizer.php:481
+msgid "H3 color"
+msgstr ""
+
+#: inc/customizer.php:396 inc/customizer.php:488
+msgid "H4 color"
+msgstr ""
+
+#: inc/customizer.php:403 inc/customizer.php:495
+msgid "H5 color"
+msgstr ""
+
+#: inc/customizer.php:410 inc/customizer.php:502
+msgid "H6 color"
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "Invert scheme"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:512
+msgid "Configure typography settings"
+msgstr ""
+
+#: inc/customizer.php:519
+msgid "Body text"
+msgstr ""
+
+#: inc/customizer.php:560 inc/customizer.php:644 inc/customizer.php:728
+#: inc/customizer.php:812 inc/customizer.php:896 inc/customizer.php:980
+#: inc/customizer.php:1064 inc/customizer.php:1148
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer.php:561 inc/customizer.php:645 inc/customizer.php:729
+#: inc/customizer.php:813 inc/customizer.php:897 inc/customizer.php:981
+#: inc/customizer.php:1065 inc/customizer.php:1149
+msgid "Relative to the font-size of the element"
+msgstr ""
+
+#: inc/customizer.php:573 inc/customizer.php:657 inc/customizer.php:741
+#: inc/customizer.php:825 inc/customizer.php:909 inc/customizer.php:993
+#: inc/customizer.php:1077 inc/customizer.php:1161
+msgid "Letter Spacing, px"
+msgstr ""
+
+#: inc/customizer.php:593 inc/customizer.php:677 inc/customizer.php:761
+#: inc/customizer.php:845 inc/customizer.php:929 inc/customizer.php:1013
+#: inc/customizer.php:1097
+msgid "Text Align"
+msgstr ""
+
+#: inc/customizer.php:603
+msgid "H1 Heading"
+msgstr ""
+
+#: inc/customizer.php:687
+msgid "H2 Heading"
+msgstr ""
+
+#: inc/customizer.php:771
+msgid "H3 Heading"
+msgstr ""
+
+#: inc/customizer.php:855
+msgid "H4 Heading"
+msgstr ""
+
+#: inc/customizer.php:939
+msgid "H5 Heading"
+msgstr ""
+
+#: inc/customizer.php:1023
+msgid "H6 Heading"
+msgstr ""
+
+#: inc/customizer.php:1183 inc/customizer.php:1423
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:1190
+msgid "Header Right Disclaimer Text"
+msgstr ""
+
+#: inc/customizer.php:1191 inc/customizer.php:1283
+msgid "HTML formatting support"
+msgstr ""
+
+#: inc/customizer.php:1198
+msgid "Styles"
+msgstr ""
+
+#: inc/customizer.php:1212
+msgid "Invert text colorscheme"
+msgstr ""
+
+#: inc/customizer.php:1220 inc/customizer.php:1717
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:163
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:1228 inc/customizer.php:1724
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:106
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:1235 inc/customizer.php:1731
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer.php:1240 inc/customizer.php:1736
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer.php:1241 inc/customizer.php:1737
+msgid "Tile"
+msgstr ""
+
+#: inc/customizer.php:1242 inc/customizer.php:1738
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/customizer.php:1243 inc/customizer.php:1739
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/customizer.php:1249 inc/customizer.php:1744
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:123
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:140
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer.php:1254 inc/customizer.php:1749 inc/customizer.php:2125
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:1255 inc/customizer.php:1750 inc/customizer.php:2123
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:1256 inc/customizer.php:1751 inc/customizer.php:2126
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:1262 inc/customizer.php:1756
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer.php:1267 inc/customizer.php:1761
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer.php:1268 inc/customizer.php:1762
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer.php:1276
+msgid "Top Panel"
+msgstr ""
+
+#: inc/customizer.php:1282
+msgid "Disclaimer Text"
+msgstr ""
+
+#: inc/customizer.php:1290
+msgid "Enable search"
+msgstr ""
+
+#: inc/customizer.php:1297
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer.php:1306
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer.php:1312
+msgid "Enable sticky menu"
+msgstr ""
+
+#: inc/customizer.php:1319
+msgid "Enable title attributes"
+msgstr ""
+
+#: inc/customizer.php:1326
+msgid "More Menu Button Type"
+msgstr ""
+
+#: inc/customizer.php:1332
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer.php:1338
+msgid "More Menu Button Text"
+msgstr ""
+
+#: inc/customizer.php:1340
+msgid "More"
+msgstr ""
+
+#: inc/customizer.php:1346
+msgid "More Menu Button Icon"
+msgstr ""
+
+#: inc/customizer.php:1360
+msgid "More Button Image Upload"
+msgstr ""
+
+#: inc/customizer.php:1361
+msgid "Upload More Button image"
+msgstr ""
+
+#: inc/customizer.php:1369
+msgid "Retina More Button Image Upload"
+msgstr ""
+
+#: inc/customizer.php:1370
+msgid "Upload More Button image for retina-ready devices"
+msgstr ""
+
+#: inc/customizer.php:1384
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:1391
+msgid "No sidebars"
+msgstr ""
+
+#: inc/customizer.php:1398
+msgid "MailChimp"
+msgstr ""
+
+#: inc/customizer.php:1399
+msgid "Setup MailChimp settings for subscribe widget"
+msgstr ""
+
+#: inc/customizer.php:1404
+msgid "MailChimp API key"
+msgstr ""
+
+#: inc/customizer.php:1410
+msgid "MailChimp list ID"
+msgstr ""
+
+#: inc/customizer.php:1418
+msgid "Ads Management"
+msgstr ""
+
+#: inc/customizer.php:1431
+msgid "Front Page Before Loop"
+msgstr ""
+
+#: inc/customizer.php:1439
+msgid "Post Before Content"
+msgstr ""
+
+#: inc/customizer.php:1447
+msgid "Post Before Comments"
+msgstr ""
+
+#: inc/customizer.php:1462
+msgid "Logo upload"
+msgstr ""
+
+#: inc/customizer.php:1469
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:1476
+msgid "Widget Area Columns"
+msgstr ""
+
+#: inc/customizer.php:1494
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer.php:1495
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer.php:1496
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer.php:1501
+msgid "Footer Widgets Area color"
+msgstr ""
+
+#: inc/customizer.php:1508
+msgid "Footer Background color"
+msgstr ""
+
+#: inc/customizer.php:1515
+msgid "Show Footer Logo"
+msgstr ""
+
+#: inc/customizer.php:1522
+msgid "Show Menu"
+msgstr ""
+
+#: inc/customizer.php:1531
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:1538
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:1550
+msgid "Listing"
+msgstr ""
+
+#: inc/customizer.php:1551
+msgid "Grid (2 Columns)"
+msgstr ""
+
+#: inc/customizer.php:1552
+msgid "Grid (3 Columns)"
+msgstr ""
+
+#: inc/customizer.php:1553
+msgid "Masonry (2 Columns)"
+msgstr ""
+
+#: inc/customizer.php:1554
+msgid "Masonry (3 Columns)"
+msgstr ""
+
+#: inc/customizer.php:1555
+msgid "Vertical Justify"
+msgstr ""
+
+#: inc/customizer.php:1560
+msgid "Sticky label type"
+msgstr ""
+
+#: inc/customizer.php:1565
+msgid "Text Label"
+msgstr ""
+
+#: inc/customizer.php:1566
+msgid "Font Icon"
+msgstr ""
+
+#: inc/customizer.php:1567
+msgid "Text with Icon"
+msgstr ""
+
+#: inc/customizer.php:1572
+msgid "Icon for sticky post"
+msgstr ""
+
+#: inc/customizer.php:1587
+msgid "Featured Post Label"
+msgstr ""
+
+#: inc/customizer.php:1588
+msgid "Label for sticky post"
+msgstr ""
+
+#: inc/customizer.php:1590
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer.php:1596
+msgid "Post content"
+msgstr ""
+
+#: inc/customizer.php:1601
+msgid "Only excerpt"
+msgstr ""
+
+#: inc/customizer.php:1602
+msgid "Full content"
+msgstr ""
+
+#: inc/customizer.php:1607
+msgid "Featured image"
+msgstr ""
+
+#: inc/customizer.php:1612
+msgid "Small"
+msgstr ""
+
+#: inc/customizer.php:1618
+msgid "Read More button text"
+msgstr ""
+
+#: inc/customizer.php:1625 inc/customizer.php:1669 inc/customizer.php:1864
+msgid "Show post author"
+msgstr ""
+
+#: inc/customizer.php:1632 inc/customizer.php:1676
+msgid "Show publish date"
+msgstr ""
+
+#: inc/customizer.php:1639 inc/customizer.php:1683
+msgid "Show categories"
+msgstr ""
+
+#: inc/customizer.php:1646 inc/customizer.php:1690
+msgid "Show tags"
+msgstr ""
+
+#: inc/customizer.php:1653 inc/customizer.php:1697
+msgid "Show comments"
+msgstr ""
+
+#: inc/customizer.php:1662
+msgid "Post"
+msgstr ""
+
+#: inc/customizer.php:1704
+msgid "Enable the author block after each post"
+msgstr ""
+
+#: inc/customizer.php:1770
+msgid "Related posts block"
+msgstr ""
+
+#: inc/customizer.php:1777
+msgid "Show related posts block"
+msgstr ""
+
+#: inc/customizer.php:1784
+msgid "Related posts block title"
+msgstr ""
+
+#: inc/customizer.php:1791
+msgid "Number of post"
+msgstr ""
+
+#: inc/customizer.php:1803
+msgid "2 columns"
+msgstr ""
+
+#: inc/customizer.php:1804
+msgid "3 columns"
+msgstr ""
+
+#: inc/customizer.php:1805
+msgid "4 columns"
+msgstr ""
+
+#: inc/customizer.php:1810
+msgid "Show post title"
+msgstr ""
+
+#: inc/customizer.php:1817
+msgid "Number of words in the title"
+msgstr ""
+
+#: inc/customizer.php:1824
+msgid "Show post image"
+msgstr ""
+
+#: inc/customizer.php:1831
+msgid "Display content"
+msgstr ""
+
+#: inc/customizer.php:1836
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:1837
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:1838
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:1843
+msgid "Number of words in the content"
+msgstr ""
+
+#: inc/customizer.php:1850
+msgid "Show post categories"
+msgstr ""
+
+#: inc/customizer.php:1857
+msgid "Show post tags"
+msgstr ""
+
+#: inc/customizer.php:1871
+msgid "Show post publish date"
+msgstr ""
+
+#: inc/customizer.php:1878
+msgid "Show post comment count"
+msgstr ""
+
+#: inc/customizer.php:2037
+msgid "Minimal"
+msgstr ""
+
+#: inc/customizer.php:2038
+msgid "Centered"
+msgstr ""
+
+#: inc/customizer.php:2039
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:2040
+msgid "Transparent"
+msgstr ""
+
+#: inc/customizer.php:2075
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer.php:2089
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer.php:2090
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer.php:2091
+msgid "Oblique"
+msgstr ""
+
+#: inc/customizer.php:2104
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer.php:2105
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer.php:2106
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer.php:2107
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer.php:2108
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer.php:2109
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer.php:2110
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer.php:2124
+msgid "Justify"
+msgstr ""
+
+#: inc/customizer.php:2389
+#, php-format
+msgid "Sanohimi Hotel %%year%% All Rights Reserved"
+msgstr ""
+
+#: inc/hooks.php:131
+msgid "Current date —"
+msgstr ""
+
+#: inc/hooks.php:132
+msgid "Booked room —"
+msgstr ""
+
+#: inc/hooks.php:133
+msgid "Free room —"
+msgstr ""
+
+#: inc/hooks.php:170 inc/hooks.php:177
+msgid "Facilities:"
+msgstr ""
+
+#: inc/hooks.php:207
+msgid "/per night"
+msgstr ""
+
+#: inc/hooks.php:215
+msgid "Book Now"
+msgstr ""
+
+#: inc/hooks.php:215
+msgid "Best price online"
+msgstr ""
+
+#: inc/hooks.php:577
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/hooks.php:579
+msgid "Your name"
+msgstr ""
+
+#: inc/hooks.php:581
+msgid "Your e-mail"
+msgstr ""
+
+#: inc/hooks.php:583
+msgid "Your website"
+msgstr ""
+
+#: inc/hooks.php:585
+msgid "Comments *"
+msgstr ""
+
+#: inc/register-plugins.php:29
+msgid "Cherry Plugin Wizard"
+msgstr ""
+
+#: inc/template-comment.php:176
+msgid "Edit"
+msgstr ""
+
+#: inc/template-menu.php:25
+msgid "Set main menu"
+msgstr ""
+
+#: inc/template-menu.php:55
+msgid "Set footer menu"
+msgstr ""
+
+#: inc/template-menu.php:124
+msgid "Set social menu"
+msgstr ""
+
+#: inc/template-meta.php:41
+msgid "Facebook"
+msgstr ""
+
+#: inc/template-meta.php:46
+msgid "Twitter"
+msgstr ""
+
+#: inc/template-meta.php:51
+msgid "Google+"
+msgstr ""
+
+#: inc/template-meta.php:103
+msgid "Share on "
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:386
+#: inc/classes/class-tgm-plugin-activation.php:827
+#: inc/classes/class-tgm-plugin-activation.php:2533
+#: inc/classes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+#: inc/classes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:388
+#: inc/classes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:934
+#: inc/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1121
+#: inc/classes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:17
+msgid "Display an information about your site."
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:19
+msgid "About Sanohimi"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:24
+#: inc/widgets/contact-information/class-contact-information-widget.php:33
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:30
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:32
+msgid "Logo:"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:40
+msgid "Enable Social Buttons"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:49
+msgid "Enable Tagline"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:54
+msgid "Text or HTML"
+msgstr ""
+
+#: inc/widgets/about/class-about-widget.php:56
+msgid "Content:"
+msgstr ""
+
+#: inc/widgets/contact-information/class-contact-information-widget.php:25
+msgid "Display an contact-information."
+msgstr ""
+
+#: inc/widgets/contact-information/class-contact-information-widget.php:27
+msgid "Contact Information"
+msgstr ""
+
+#: inc/widgets/contact-information/class-contact-information-widget.php:37
+msgid "Add Contact Information"
+msgstr ""
+
+#: inc/widgets/contact-information/class-contact-information-widget.php:45
+msgid "Choose icon"
+msgstr ""
+
+#: inc/widgets/contact-information/class-contact-information-widget.php:58
+#: inc/widgets/contact-information/class-contact-information-widget.php:59
+msgid "Value"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:26
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:34
+msgid "Custom Posts"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:27
+msgid "Display custom posts your site."
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:35
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:42
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:134
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:46
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:135
+msgid "Tag"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:50
+msgid "Post Format"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:54
+msgid "Choose taxonomy type"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:62
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:64
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:73
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:75
+msgid "Select tags"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:84
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:86
+msgid "Select post format"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:94
+msgid "Posts count ( Set 0 to show all. )"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:102
+msgid "Offset post"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:110
+msgid "Title words length ( Set 0 to hide title. )"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:118
+msgid "Excerpt words length ( Set 0 to hide excerpt. )"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:131
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:132
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:133
+msgid "Comment count"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:136
+msgid "More Button"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:138
+msgid "Display post meta data"
+msgstr ""
+
+#: inc/widgets/custom-posts/class-custom-posts-widget.php:143
+msgid "Post read more button label"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:37
+msgid "Display subscribe form and follow links."
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:39
+msgid "Subscribe and Follow"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:47
+msgid "Enable Subscribe Box"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:52
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:66
+msgid "Subscribe"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:53
+msgid "Subscribe Title"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:57
+msgid "Subscribe text message"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:61
+msgid "Enter your email"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:62
+msgid "Subscribe input placeholder"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:67
+msgid "Subscribe submit label"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:71
+msgid "You successfully subscribed"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:72
+msgid "Subscribe success"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:80
+msgid "Enable Follow Box"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:85
+msgid "Follow"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:86
+msgid "Follow Title"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:90
+msgid "Follow text message"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:99
+msgid "Enable Custom Background"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:107
+msgid "Choose Image"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:118
+msgid "Use \"Invert scheme\" for text color"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:126
+msgid "Top Left"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:127
+msgid "Top Center"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:128
+msgid "Top Right"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:129
+msgid "Middle Left"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:130
+msgid "Middle Center"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:131
+msgid "Middle Right"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:132
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:133
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:134
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:143
+msgid "Repeat"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:144
+msgid "Repeat X"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:145
+msgid "Repeat Y"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:146
+msgid "No repeat"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:152
+msgid "Background Size"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:155
+msgid "Cover"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:156
+msgid "Contain"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:157
+msgid "Auto"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:172
+msgid "Security validation failed"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:173
+msgid "Please, provide valid mail"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:174
+msgid "Please, set up MailChimp API key and List ID"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:175
+msgid "Internal error. Please, try again later"
+msgstr ""
+
+#: inc/widgets/subscribe-follow/class-subscribe-follow-widget.php:239
+msgid "Please set up MailChimp API key and List ID"
+msgstr ""
+
+#: mp-restaurant-menu/common/ingredients.php:11
+msgid "Ingredients"
+msgstr ""
+
+#: mp-restaurant-menu/common/price-box.php:9
+msgid "Price:"
+msgstr ""
+
+#: mp-restaurant-menu/common/price-box.php:10
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: mp-restaurant-menu/common/related-items.php:6
+msgid "You might also like"
+msgstr ""
+
+#: template-parts/content-audio.php:91 template-parts/content-gallery.php:92
+#: template-parts/content-image.php:94 template-parts/content-link.php:107
+#: template-parts/content-quote.php:91 template-parts/content-search.php:58
+#: template-parts/content-single-link.php:63
+#: template-parts/content-single.php:50 template-parts/content-status.php:102
+#: template-parts/content-video.php:104 template-parts/content.php:100
+#, php-format
+msgid " %s comments"
+msgstr ""
+
+#: template-parts/content-author-bio.php:17
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26
+#: template-parts/content-single-link.php:94
+#: template-parts/content-single.php:88
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:30
+#: template-parts/content-single-link.php:98
+#: template-parts/content-single.php:92
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-single-link.php:118
+#: template-parts/content-single.php:112
+msgid "Like this post? Share it!"
+msgstr ""
+
+#: tm_pg_frontend/grid/filters.php:18
+msgid "Filter Tags"
+msgstr ""
+
+#: tm_pg_frontend/grid/filters.php:19
+msgid "Filter Categories"
+msgstr ""
+
+#: tm_pg_frontend/grid/pagination-block.php:11
+msgid "Load more"
+msgstr ""
+
+#: tm_pg_frontend/grid/items/filter.php:10
+msgid "All"
+msgstr ""
+
+#: tm_pg_frontend/grid/items/grid/album-item.php:37
+#: tm_pg_frontend/grid/items/justify/album-item.php:45
+#: tm_pg_frontend/grid/items/masonry/album-item.php:37
+#, php-format
+msgctxt "album images"
+msgid "1 image"
+msgid_plural "%1$s images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tm_pg_frontend/grid/items/grid/more-item.php:21
+#: tm_pg_frontend/grid/items/justify/more-item.php:31
+#: tm_pg_frontend/grid/items/masonry/more-item.php:21
+msgid "Load More"
+msgstr ""
+
+#: tm_pg_frontend/grid/items/grid/set-item.php:37
+#: tm_pg_frontend/grid/items/justify/set-item.php:45
+#: tm_pg_frontend/grid/items/masonry/set-item.php:37
+#, php-format
+msgctxt "set images"
+msgid "1 image"
+msgid_plural "%1$s images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tm_pg_frontend/grid/items/grid/set-item.php:43
+#: tm_pg_frontend/grid/items/justify/set-item.php:51
+#: tm_pg_frontend/grid/items/masonry/set-item.php:43
+#, php-format
+msgctxt "set albums"
+msgid "1 album"
+msgid_plural "%1$s albums"
+msgstr[0] ""
+msgstr[1] ""

@@ -1,0 +1,1671 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Power Builder Integrator\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2017-03-27 11:54+0200\n"
+"PO-Revision-Date: 2017-03-27 11:54+0200\n"
+"Last-Translator: FULL NAME <email@example.com>\n"
+"Language-Team: Cherry Team <translations@example.com >\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:5
+msgid "Booked Appointments"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:22
+msgid "Is Past Appointments?"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:26
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:35
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:46
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:89
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:109
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:118
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:142
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:151
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:160
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:100
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:109
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:129
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:138
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:147
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:156
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:165
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:174
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:183
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:207
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:173
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:182
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:202
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:221
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:238
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:247
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:256
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:285
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:294
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:175
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:184
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:204
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:223
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:240
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:249
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:258
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:282
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:291
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:305
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:314
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:167
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:175
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:199
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:208
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:217
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:279
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:289
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:299
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:72
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:96
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:108
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:60
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:69
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:78
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:87
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:106
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:115
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:125
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:134
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:143
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:152
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:161
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:170
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:126
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:51
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:75
+msgid "Yes"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:27
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:36
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:47
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:90
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:110
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:119
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:143
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:152
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:161
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:101
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:110
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:130
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:139
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:148
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:157
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:166
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:175
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:184
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:208
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:174
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:183
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:203
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:220
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:239
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:248
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:257
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:286
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:295
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:176
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:185
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:205
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:222
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:241
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:250
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:259
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:283
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:292
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:306
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:315
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:166
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:176
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:200
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:209
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:218
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:280
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:290
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:300
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:73
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:97
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:109
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:61
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:70
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:79
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:88
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:107
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:116
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:126
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:135
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:144
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:153
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:162
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:171
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:127
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:52
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:74
+msgid "No"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:31
+msgid "Remove HTML wrappers"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:40
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:60
+#: ../plugins/booked/tm-builder-module-booked-login.php:20
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:181
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:228
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:307
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:331
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:340
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:97
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:181
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:40
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart-url.php:34
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:56
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:61
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:84
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:79
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:89
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:84
+#: ../plugins/woocommerce/tm-builder-module-product-page.php:34
+#: ../plugins/woocommerce/tm-builder-module-product.php:34
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:67
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:57
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:67
+#: ../plugins/woocommerce/tm-builder-module-shop-messages.php:20
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:84
+msgid "Admin Label"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:44
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:64
+#: ../plugins/booked/tm-builder-module-booked-login.php:24
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:186
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:233
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:312
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:336
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:345
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:101
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:185
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:45
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart-url.php:38
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:60
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:66
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:89
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:84
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:94
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:89
+#: ../plugins/woocommerce/tm-builder-module-product-page.php:39
+#: ../plugins/woocommerce/tm-builder-module-product.php:38
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:72
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:62
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:72
+#: ../plugins/woocommerce/tm-builder-module-shop-messages.php:24
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:89
+msgid "CSS ID"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-appointments.php:51
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:71
+#: ../plugins/booked/tm-builder-module-booked-login.php:31
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:193
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:240
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:319
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:343
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:352
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:108
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:192
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:52
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart-url.php:45
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:67
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:73
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:96
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:91
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:101
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:96
+#: ../plugins/woocommerce/tm-builder-module-product-page.php:46
+#: ../plugins/woocommerce/tm-builder-module-product.php:45
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:79
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:69
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:79
+#: ../plugins/woocommerce/tm-builder-module-shop-messages.php:31
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:96
+msgid "CSS Class"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:5
+msgid "Booked Calendar"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:24
+msgid "Calendar ID"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:30
+msgid "Year"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:36
+msgid "Month"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:42
+msgid "Show calendar switcher?"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:51
+msgid "Calendar size"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:55
+msgid "Large"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-calendar.php:56
+msgid "Small"
+msgstr ""
+
+#: ../plugins/booked/tm-builder-module-booked-login.php:5
+msgid "Booked Login"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:5
+msgid "Projects Terms"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:42
+msgid "Term type"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:46
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:125
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:69
+msgid "Category"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:47
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:126
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:101
+msgid "Tag"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:49
+msgid "Choose term type"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:52
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:62
+msgid "Projects listing layout"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:56
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:66
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:32
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:40
+msgid "Grid"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:57
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:67
+msgid "Masonry"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:58
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:69
+msgid "Cascading grid"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:59
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:70
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:238
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:33
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:41
+msgid "List"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:61
+msgid "Choose terms listing view layout."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:64
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:87
+msgid "Loading animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:68
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:91
+msgid "Fade animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:69
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:92
+msgid "Scale animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:70
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:93
+msgid "Move Up animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:71
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:94
+msgid "Flip animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:72
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:95
+msgid "Helix animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:73
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:96
+msgid "Fall perspective animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:75
+msgid "Choose terms loading animation."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:78
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:203
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:74
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:76
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:44
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:69
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:35
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:37
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:37
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:59
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:37
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:35
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:34
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:35
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:37
+msgid "Columns"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:91
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:216
+msgid "Posts per page"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:104
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:229
+msgid "Item margin"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:115
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:240
+msgid "Select projects item margin (outer indent) value."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:118
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:257
+msgid "Grid template"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:125
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:264
+msgid "Masonry template"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:132
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:278
+msgid "Cascading grid template"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects-terms.php:139
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:285
+msgid "List template"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:5
+msgid "Projects"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:68
+msgid "Justified"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:72
+msgid "Choose projects listing view layout."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:75
+msgid "Pagination mode"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:79
+msgid "Ajax pagination"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:80
+msgid "More button"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:81
+msgid "Lazy loading"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:82
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:137
+msgid "None"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:84
+msgid "Choose projects pagination mode."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:98
+msgid "Choose posts loading animation."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:101
+msgid "Hover animation"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:105
+msgid "Fade"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:106
+msgid "Scale"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:107
+msgid "Custom"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:109
+msgid "Choose posts images hover animation."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:112
+msgid "Filters"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:116
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:157
+msgid "Show"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:117
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:158
+msgid "Hide"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:121
+msgid "Filter type"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:128
+msgid "Select if you want to filter posts by tag or by category."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:131
+msgid "Projects filter categories list"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:139
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:134
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:92
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:25
+msgid "Choose which categories you would like to include."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:142
+msgid "Projects filter tags list"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:150
+msgid "Choose which tags you would like to include."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:153
+msgid "Order filters"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:160
+msgid "Enable/disable order filters."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:163
+msgid "Order filter default value"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:167
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:64
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:64
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:54
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:64
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:62
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:62
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:64
+msgid "DESC"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:168
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:65
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:65
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:55
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:65
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:63
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:63
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:65
+msgid "ASC"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:172
+msgid "Order by filter default value"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:176
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:73
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:136
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:52
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:52
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:52
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:50
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:49
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:50
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:52
+msgid "Date"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:177
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:67
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:56
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:56
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:40
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:56
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:54
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:53
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:54
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:56
+msgid "Name"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:178
+msgid "Modified"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:179
+msgid "Comments"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:183
+msgid "Post Format"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:187
+msgid "All formats"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:188
+msgid "Standard"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:189
+msgid "Image"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:190
+msgid "Gallery"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:191
+msgid "Audio"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:192
+msgid "Video"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:196
+msgid "Single term slug"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:243
+msgid "Justified fixed height"
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:254
+msgid "Select projects item justified height value."
+msgstr ""
+
+#: ../plugins/cherry-projects/tm-builder-module-cherry-projects.php:271
+msgid "Justified template"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:5
+msgid "Cherry RE Agents List"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:40
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:170
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:48
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:217
+msgid "read more"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:50
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:58
+msgid "How Many?"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:61
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:69
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:131
+msgid "Order by"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:65
+msgid "Display name"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:66
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:138
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:44
+msgid "ID"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:68
+msgid "Login"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:69
+msgid "Registered date"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:70
+msgid "Post count"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:75
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:86
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:121
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:58
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:60
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:60
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:50
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:60
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:58
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:58
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:60
+msgid "Order"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:79
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:90
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:126
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:63
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:118
+msgid "Descending"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:80
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:91
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:127
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:64
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:117
+msgid "Ascending"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:85
+msgid "Show Photo"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:97
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:117
+msgid "Photo Size"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:98
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:118
+msgid "Select photo size."
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:105
+msgid "Show Name"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:114
+msgid "Show Description"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:126
+msgid "Description Length"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:127
+msgid "Description Length (in words)"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:138
+msgid "Show Contacts"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:147
+msgid "Show Socials"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:156
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:203
+msgid "Show More Button"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:168
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:215
+msgid "More Button Text"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:174
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:221
+msgid "Template"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:175
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:222
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:334
+msgid "Choose template file (*.tmpl)"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-agents-list.php:182
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:229
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:309
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:333
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:341
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:42
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:63
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:86
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:81
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:91
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:86
+#: ../plugins/woocommerce/tm-builder-module-product-page.php:36
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:69
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:59
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:69
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:86
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:5
+msgid "Cherry RE Property List"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:74
+msgid "Property ID"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:75
+msgid "Property author"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:76
+msgid "Property title"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:77
+msgid "Property slug"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:78
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:141
+msgid "Last modified date"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:79
+msgid "Property parent"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:80
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:142
+msgid "Random"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:81
+msgid "Menu order"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:96
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:68
+msgid "Show Title"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:105
+msgid "Show Image"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:125
+msgid "Show Status"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:134
+msgid "Show Area"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:143
+msgid "Show Bedrooms"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:152
+msgid "Show Bathrooms"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:161
+msgid "Show Price"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:170
+msgid "Show Location"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:179
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:191
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../plugins/cherry-real-estate/tm-builder-module-tm-re-property-list.php:192
+msgid "Auto-generated excerpt length (in words)"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:6
+msgid "Services"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:51
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:51
+msgid "More"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:87
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:89
+msgid "Columns Laptop"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:100
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:102
+msgid "Columns Tablet"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:113
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:115
+msgid "Columns Phone"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:126
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:91
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:22
+msgid "Include categories"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:137
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:139
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:103
+msgid "Include post id"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:140
+msgid ""
+"Enter comma separated post IDs you would like to include. Example: 256, 472, "
+"23, 6"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:143
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:145
+msgid "Posts count ( Set 0 to show all ) "
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:154
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:156
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:146
+msgid "Super Title"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:159
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:161
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:151
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:55
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:55
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:55
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:53
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:52
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:53
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:55
+msgid "Title"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:164
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:166
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:156
+msgid "Sub Title"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:169
+msgid "Show filter by categorys"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:178
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:180
+msgid "Display more button"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:192
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:194
+msgid "More button text"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:198
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:200
+msgid "AJAX load more"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:210
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:212
+msgid "More button URL"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:216
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:218
+msgid "Show paging navigation"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:224
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:226
+msgid "Will be ignored if More button shown."
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:227
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:229
+msgid "Featured Image Size"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:231
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:233
+msgid "Select featured thumbnail size."
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:234
+msgid "Show title"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:243
+msgid "Show featured media (image or icon)"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:252
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:254
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:83
+msgid "Show description"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:264
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:266
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:92
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:176
+msgid "Description length"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:273
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:275
+msgid "Set words number in excerpt (set 0 to hide excerpt)"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:276
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:296
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:333
+msgid "Layout"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:281
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:301
+msgid "Use gutter between columns"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:290
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:310
+msgid "Use gutter between rows"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:299
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:319
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:28
+msgid "Disable on"
+msgstr ""
+
+#: ../plugins/cherry-services-list/tm-builder-module-cherry-services.php:304
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:328
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:37
+msgid "This will disable the module on selected devices"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:6
+msgid "Team"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:128
+msgid "Include groups"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:136
+msgid "Choose which groups you would like to include."
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:142
+msgid ""
+"Enter comma separeted post IDs you would like to include. Example: 256, 472, "
+"23, 6"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:171
+msgid "Show filter by groups"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:236
+msgid "Show name"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:245
+msgid "Show photo"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:278
+msgid "Show position"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:287
+msgid "Show social profiles links"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:322
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:31
+msgid "Phone"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:323
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:32
+msgid "Tablet"
+msgstr ""
+
+#: ../plugins/cherry-team-members/tm-builder-module-cherry-team.php:324
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:33
+msgid "Desktop"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:5
+msgid "Cherry Testimonials"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:78
+msgid "Choose Source"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:82
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:37
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:50
+msgid "Categories"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:83
+msgid "Testimonial ids"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:104
+msgid ""
+"Enter post id you would like to include. The separator gap. Example: 256 472 "
+"23 6"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:110
+msgid "Posts count ( Set -1 to show all )"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:122
+msgid "Testimonials order."
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:132
+msgid "Order testimonials by."
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:139
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:54
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:54
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:54
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:52
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:51
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:52
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:54
+msgid "Author"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:140
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:41
+msgid "Slug"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:161
+msgid "Show Divider"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:162
+msgid "Toggle a separator between title & testimonials."
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:171
+msgid "Show Avatar"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:183
+msgid "Avatar Size"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:184
+msgid "Select avatar size."
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:195
+msgid "Show E-mail"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:204
+msgid "Show Position"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:213
+msgid "Show Company Name"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:222
+msgid "Content Length"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:223
+msgid "Insert the number of words you want to show in the post content."
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:234
+msgid "Type"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:239
+msgid "Slider"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:252
+msgid "Autoplay, ms ( Set 0 to stop autoplay )"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:264
+msgid "Effect"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:269
+msgid "Slide"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:270
+msgid "Coverflow"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:274
+msgid "Enable loop mode"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:284
+msgid "Display pagination"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:294
+msgid "Display navigation"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:304
+msgid "Number of slides per view"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:305
+msgid "Slides visible at the same time on slider's container"
+msgstr ""
+
+#: ../plugins/cherry-testi/tm-builder-module-tm-testimonials.php:319
+msgid "Distance between slides (px)"
+msgstr ""
+
+#: ../plugins/contact-form-7/tm-builder-module-contact-form-7.php:5
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../plugins/contact-form-7/tm-builder-module-contact-form-7.php:23
+msgid "Contact form 7 instance"
+msgstr ""
+
+#: ../plugins/contact-form-7/tm-builder-module-contact-form-7.php:27
+msgid "Choose contact form, which has already been created"
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:6
+msgid "MP Events"
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:36
+msgid "Events count ( Set -1 to show all )"
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:47
+msgid "Columns number"
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:59
+msgid "Events order."
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:80
+msgid "Excerpt words length"
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:81
+msgid "Set 0 to hide excerpt."
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:92
+msgid "Show Participants"
+msgstr ""
+
+#: ../plugins/moto-tools-integration/tm-builder-module-mti-events.php:104
+msgid "Show Schedule"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:5
+msgid "Restaurant Categories"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:28
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:36
+msgid "View mode"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:41
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:54
+msgid "Comma separated categories IDs list"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:48
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:73
+msgid "1 column"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:49
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:74
+msgid "2 columns"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:50
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:75
+msgid "3 columns"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:51
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:76
+msgid "4 columns"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:52
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:77
+msgid "6 columns"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:56
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:81
+msgid "Show category name"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:65
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:111
+msgid "Show featured image"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-categories.php:74
+msgid "Show category icon"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:5
+msgid "Restaurant Menu Items"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:42
+msgid "Simple List"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:57
+msgid "Tags"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:60
+msgid "Comma separated tags IDs list"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:63
+msgid "Menu item IDs"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:66
+msgid "Comma separated menu items IDs list"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:85
+msgid "Only text"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:86
+msgid "Title with image"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:87
+msgid "Don`t show"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:91
+msgid "Price position"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:95
+msgid "Dotted line and price on the right"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:96
+msgid "Price on the right"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:97
+msgid "Price next to the title"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:102
+msgid "Show attributes"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:121
+msgid "Show excerpt"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:130
+msgid "Show price"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:139
+msgid "Show tags"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:148
+msgid "Show ingredients"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:157
+msgid "Link item"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:166
+msgid "Show buy button"
+msgstr ""
+
+#: ../plugins/mp-restaurant-menu/tm-builder-module-mprm-items.php:173
+msgid "If enable eCommerce option."
+msgstr ""
+
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:6
+msgid "TM Gallery"
+msgstr ""
+
+#: ../plugins/tm-gallery/tm-builder-module-tm-pg-gallery.php:72
+msgid "You currently don't have any projects assigned to a category."
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:5
+msgid "Timeline"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:39
+msgid "You currently don't have any Timeline tags."
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:60
+msgid "Timeline Layout"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:64
+msgid "Horizontal"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:65
+msgid "Vertical"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:66
+msgid "Vertical (chess order)"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:68
+msgid "Timeline look and feel."
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:71
+msgid "Horizontal layout visible items limit"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:82
+msgid "Visible items limit is used for \"Horizontal\" layout."
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:85
+msgid "Date format"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:98
+msgid "Date format used for displaying posts in the timeline."
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:110
+msgid ""
+"Show only posts which contain following tag. If none selected, will show all "
+"timeline posts."
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:113
+msgid "Sort Order"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:122
+msgid "Display anchors"
+msgstr ""
+
+#: ../plugins/tm-timeline/tm-builder-module-tm-timeline.php:129
+msgid "Timeline post title will be clickable and will lead user to the post"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart-url.php:5
+msgid "Product Add To Cart URL"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart-url.php:22
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:24
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:53
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:53
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:53
+#: ../plugins/woocommerce/tm-builder-module-product-page.php:22
+#: ../plugins/woocommerce/tm-builder-module-product.php:22
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:51
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:50
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:51
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:53
+msgid "Product ID"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart-url.php:28
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:41
+#: ../plugins/woocommerce/tm-builder-module-product-page.php:28
+#: ../plugins/woocommerce/tm-builder-module-product.php:28
+msgid "Product SKU"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:5
+msgid "Product Add To Cart"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:30
+msgid "Quantity"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-add-to-cart.php:47
+msgid "Show Price?"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:5
+msgid "Best Selling Products"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:24
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:26
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:26
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:26
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:24
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:23
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:24
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:26
+msgid "Products Per Page"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:46
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:69
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:69
+msgid "Category slug"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-best-selling-products.php:51
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:74
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:74
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:74
+msgid "Operator"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:5
+msgid "Featured Products"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:48
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:48
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:36
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:48
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:46
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:45
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:46
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:48
+msgid "Order By"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-featured-products.php:71
+msgid "Use slug to set product category"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:5
+msgid "Product Attribute"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:69
+msgid "Attribute"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-attribute.php:74
+msgid "Filter"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:5
+msgid "Product Categories"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:25
+msgid "Categories number (0 to show all)"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:42
+msgid "Term Group"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:43
+msgid "Term Id"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:45
+msgid "Description"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:46
+msgid "Count"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:70
+msgid "Hide Empty"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:79
+msgid "Parent"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-categories.php:84
+msgid "IDs"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-category.php:5
+msgid "Product Category"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product-page.php:5
+msgid "Product Page"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-product.php:5
+msgid "Product"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-recent-products.php:5
+msgid "Recent Products"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-related-products.php:5
+msgid "Related Products"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-sale-products.php:5
+msgid "Sale Products"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-shop-messages.php:5
+msgid "Shop Messages"
+msgstr ""
+
+#: ../plugins/woocommerce/tm-builder-module-top-rated-products.php:5
+msgid "Top Rated Products"
+msgstr ""
