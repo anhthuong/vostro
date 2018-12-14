@@ -348,6 +348,14 @@ ul#main-menu {
 }
 .top-account .top-panel {
     background-color: transparent;
+    right: 0;
+    position: absolute;
+}
+.top-account .top-panel .top-panel__wrap{
+	padding-right: 0;
+}
+.top-account .top-panel .top-panel__wrap ul li:last-child{
+	margin-right: 0;
 }
 .main-navigation .menu > li {
     /*margin-left: 46px !important;*/
@@ -370,3 +378,111 @@ ul#main-menu {
 nav#site-navigation {
     margin-top: -25px;
 }
+.tit-quick {
+    padding-top: 20px;
+    font-size: 16px;
+    color: #fff;
+    text-align: left;
+    padding-left: 85px;
+}
+.tit-quick span{
+	border-bottom: 2px solid #5E507B;
+    padding: 5px 5px;
+}
+.menu-quick-left {
+    float: left;
+}
+ul.menu-quick {
+    padding-left: 130px;
+    padding-top: 15px;
+}
+ul.menu-quick li {
+    text-align: left;
+    margin-right: 40px;
+}
+/* style page tour info */
+.page-id-2190 {
+    background: #F8F8F8 !important;
+}
+.wrap-tour-item {
+    position: absolute;
+    width: 200px;
+    bottom: -10px;
+    right: 0;
+    background: #F8F8F8;
+    padding: 10px 20px 10px 20px;
+}
+.tour-info-tit {
+    color: #000;
+    font-size: 15px;
+    text-align: left;
+    line-height: 14px;
+}
+.price-tour-info {
+    text-align: left;
+    bottom: -20px;
+    position: absolute;
+    font-size: 12px;
+    color: #000;
+}
+.upgrading-web {
+    text-align: center;
+    color: #EB202D;
+    font-size: 12px;
+    width: 100%;
+    float: left;
+}
+.footer-address-right div, .footer-address-right label {
+    color: #FFFFFF;
+}
+.footer-address-right div{
+    color: #FFFFFF;
+    text-align: left;
+}
+.footer-address-right label {
+    color: #FFFFFF;
+    text-align: right;
+}
+.footer-address-right h3 {
+    color: #fff;
+    margin-left: 30px;
+}
+.footer-social-left ul {
+    margin-top: 50px;
+}
+.footer-social-left .social-list .menu-item > a::before{
+	font-size: 20px !important;
+}
+.footer-social-left .social-list a:hover::before, .share-btns__link:hover {
+    color: #C3A200 !important;
+}
+.entry-content ul li:before, .widget_categories ul li:before, .widget_archive ul li:before, .widget ul li:before, .site-content ul li:before {
+    font-family: 'FontAwesome';
+    margin-right: 0px;
+    top: 0;
+    position: relative;
+    left: 0;
+    content: '';
+    display: list-item;
+    margin-left: 0px;
+    list-style-type: disc;
+    float: left;
+    font-size: 20px;
+    line-height: 16px;
+    color: #C5C5C5 !important;
+}
+ul.menu-quick.menu-quick-left {
+    margin-right: 70px !important;
+}
+.entry-content ul li, .widget_categories ul li, .widget_archive ul li, .widget ul li, .site-content ul li {
+    padding-bottom: 10px;
+}
+.tm_pb_contact_field {
+    padding-right: 0px !important;
+}
+
+
+
+
+
+
