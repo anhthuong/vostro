@@ -32,18 +32,27 @@
 <!-- Slider main container -->
 <div class="swiper-container" >
 	<!-- Additional required wrapper -->
-	<div class="swiper-wrapper">
-		<!-- Slides -->
-		<?php
-			echo $this->_var('slides');
-		?>
-	</div>
-	<!-- If we need pagination -->
-	<div class="swiper-pagination"></div>
-	<!-- If we need navigation buttons -->
-	<div class="swiper-button-prev"></div>
-	<div class="swiper-button-next"></div>
+        
+	<!--<div class="swiper-wrapper-fix">-->
+            <div class="swiper-wrapper">
+                <!-- Slides -->
+                <?php
+                        echo $this->_var('slides');
+                ?>
+            </div>
+	<!--</div>-->
+        
 </div>
+<!--big slider-->
+    <div class="swiper-slide-big">
+        <!--thuongnv show anh-->
+        <img class="post-thumbnail__img" src="http://dalvostrohotel.com/wp-content/uploads/2018/12/phong-5.jpg" style="width: 100%">
+    </div>
+    <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
 <?php
 	echo $show_all;
 ?>

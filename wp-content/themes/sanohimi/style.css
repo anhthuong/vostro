@@ -50,7 +50,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 # Normalize
 --------------------------------------------------------------*/
 html {
-  font-family: sans-serif;
+  font-family: utm-avo;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
 
@@ -149,7 +149,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: utm-avo;
   font-size: 1em; }
 
 button,
@@ -277,7 +277,7 @@ address {
   margin: 0 0 1.5em; }
 
 pre {
-  font-family: "Courier 10 Pitch", Courier, monospace;
+  font-family: utm-avo;
   line-height: 1.6;
   overflow: auto;
   max-width: 100%;
@@ -292,7 +292,7 @@ pre {
   font-size: 1rem; }
 
 code, kbd, tt, var {
-  font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  font-family: utm-avo;
   font-size: 15px;
   font-size: 0.9375rem; }
 
@@ -2156,8 +2156,6 @@ a {
 
 /* Skin */
 .main-navigation a {
-  font-size: 15px;
-  font-size: 0.9375rem;
   padding: 0; }
   .main-navigation a:focus {
     outline: none; }
@@ -2167,7 +2165,8 @@ a {
     margin: 20px 0 0; } }
 
 .main-navigation .menu > li {
-  margin-left: 32px; }
+  margin-left: 32px; 
+}
   @media (max-width: 767px) {
     .main-navigation .menu > li {
       margin: 0 0 20px; } }
@@ -2175,7 +2174,8 @@ a {
     margin-left: 0; }
   .main-navigation .menu > li > a {
     padding: 39px 0;
-    letter-spacing: .7px; }
+    /*letter-spacing: .7px;*/ 
+  }
     .site-header.centered .main-navigation .menu > li > a {
       padding: 24px 0; }
       @media (max-width: 991px) {
@@ -3857,7 +3857,6 @@ a {
   margin-right: 30px;
   float: left; }
   .post__cats a {
-    font-size: .625rem;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1.5px;
@@ -3912,7 +3911,7 @@ a {
 .post__posted-by, .post__date, .post__comments {
   margin-right: 0;
   text-transform: uppercase;
-  font-size: .625rem;
+  /*font-size: .625rem;*/
   font-weight: bold;
   letter-spacing: 1.5px; }
   .post__posted-by a, .post__date a, .post__comments a {
@@ -3937,10 +3936,10 @@ a {
       clear: both; } }
   .post__tags a {
     display: inline-block;
-    font-size: .625rem;
+    /*font-size: .625rem;*/
     text-transform: uppercase;
     font-weight: bold;
-    letter-spacing: .9px;
+    /*letter-spacing: .9px;*/
     line-height: 22px;
     margin: 0 5px 5px 0;
     padding: 4px 13px 1px;
@@ -8156,7 +8155,7 @@ h5.phone {
   letter-spacing: 1.7px;
   padding-bottom: 30px; }
   .single-mp_menu_item .entry-content > p span {
-    font-family: 'Old Standard TT', serif;
+    font-family: utm-avo;
     font-size: 40px;
     line-height: .9em;
     padding-top: 0;

@@ -385,7 +385,7 @@
 						}
 
 						$mainNavigation.superGuacamole({
-								threshold: 768, // Minimal menu width, when this plugin activates
+								threshold: 9999, // Minimal menu width, when this plugin activates
 								minChildren: 3, // Minimal visible children count
 								childrenFilter: '.menu-item', // Child elements selector
 								menuTitle: moreMenuContent, // Menu title
